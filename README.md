@@ -107,7 +107,7 @@ ForestFirePrediction.ipynb
 
 ## 👤 Author
 
-**Your Name**
+**Ashwin Pillai**
 
 ---
 
